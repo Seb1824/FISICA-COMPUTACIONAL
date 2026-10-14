@@ -1,0 +1,6 @@
+Pendulo no lineal: RK4, h = 0.01 s, t en [0, 15] s
+k1 (theta0 = pi/3, h = 0.1 s) = [ 0.         -8.49570921]
+k2 (theta0 = pi/3, h = 0.1 s) = [-0.42478546 -8.49570921]
+Periodo armonico T0 = 2.006066681 s
+theta0 = 0.1 rad: T = 2.007321204 s; T/T0 = 1.000625365; aumento = 0.062536 %; intervalos = 7; error relativo max. E = 1.959e-08
+theta0 = 2.0 rad: T = 2.665870954 s; T/T0 = 1.328904458; aumento = 32.890446 %; intervalos = 5; error relativo max. E = 1.449e-08

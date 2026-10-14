@@ -1,0 +1,16 @@
+Tres cuerpos: RK4, T=2 anos, epsilon=0.01 UA
+Energia: masa solar * UA^2 / ano^2
+a1(0), epsilon=0: [59.21762641 34.18931255] UA/ano^2
+Velocidades iniciales [UA/ano]:
+[[ 3.926696318 -6.801237529]
+ [ 3.926696318  6.801237529]
+ [-7.853392637  0.         ]]
+Energia inicial E0=-25.915667630814
+h=0.01000; pasos=200; error_E=4.760808820154e-06; razon=; p=
+h=0.00500; pasos=400; error_E=2.475614638797e-07; razon=19.230815432839176; p=4.265348032602685
+h=0.00250; pasos=800; error_E=1.394289864865e-08; razon=17.75538000512939; p=4.150184332500482
+h=0.00125; pasos=1600; error_E=8.241924378053e-10; razon=16.91704268213575; p=4.080405483633894
+Separacion minima=1.000000000 UA
+Separacion maxima=3.570088741 UA
+Desplazamiento maximo del centro de masa=4.408e-15 UA
+Cambio maximo del momento lineal=1.025e-14

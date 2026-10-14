@@ -1,0 +1,3 @@
+Duffing amortiguado: RK4, h=0.01 s, t en [0,20] s
+beta=1.0: T_primer_ciclo=2.482704559 s; T_ultimo_ciclo=3.079251445 s; alpha_primer_ciclo=0.085685705 1/s; alpha_ultimo_ciclo=0.098319793 1/s; ciclos_completos=6; E0=12.000000000 J; E20=0.182262098 J
+beta=0.0: T_primer_ciclo=3.145529482 s; T_ultimo_ciclo=3.145527501 s; alpha_primer_ciclo=0.099999921 1/s; alpha_ultimo_ciclo=0.099999984 1/s; ciclos_completos=6; E0=8.000000000 J; E20=0.139795897 J

@@ -1,0 +1,9 @@
+Pendulo forzado y amortiguado: RK4 con h=0.01 s
+L=1 m; energias por unidad de masa (J/kg).
+Periodo de forzamiento Td=9.420067927 s
+Solicitada: ciclo [47.100339634,56.520407561] s; D=1.196101856839e-03 J/kg; W=8.936355073331e-04 J/kg; Delta_e=-3.024884399768e-04 J/kg; residuo_balance=-2.209e-08 J/kg; diferencia_relativa_entre_ciclos=2.708710e-02
+Control: ciclo [169.561222683,178.981290609] s; D=1.195243200080e-03 J/kg; W=1.195241750970e-03 J/kg; Delta_e=-4.617049883041e-09 J/kg; residuo_balance=-3.168e-09 J/kg; diferencia_relativa_entre_ciclos=2.738876e-07
+Amplitud angular de referencia=0.053414755 rad
+Tiempo de asentamiento al 1% (criterio indicado)=45.9 s
+Error relativo del estado a t=60 s=2.441435962e-03
+Potencia media disipada permanente=1.268826519476e-04 W/kg
