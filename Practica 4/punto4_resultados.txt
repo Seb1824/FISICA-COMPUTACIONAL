@@ -1,0 +1,11 @@
+Proyectil ideal: T=1 s, v0=25 m/s, angulo=40 grados
+Estado exacto en T: [19.15111108 11.16469024 19.15111108  6.25969024]
+Umbral para identificar redondeo: 4.922e-13 m
+Euler: E(0.1)=4.905000000000e-01 m; E(0.05)=2.452500000000e-01 m; p=1.000000000000047
+Heun: E(0.1)=3.972054645196e-15 m; E(0.05)=1.280949133596e-14 m; p=N/D (redondeo)
+RK4: E(0.1)=3.972054645196e-15 m; E(0.05)=1.280949133596e-14 m; p=N/D (redondeo)
+CONTROL ADICIONAL: z'=-z, z(0)=1, T=1; solucion exacta exp(-1).
+Control Euler: E(0.1)=1.920100107144e-02; E(0.05)=9.393518762900e-03; p=1.031443940
+Control Heun: E(0.1)=6.615436621095e-04; E(0.05)=1.591805004146e-04; p=2.055172761
+Control RK4: E(0.1)=3.332410560830e-07; E(0.05)=1.997609733184e-08; p=4.060219494
+Heun y RK4 son exactos para aceleracion constante; no se infiere p del redondeo.

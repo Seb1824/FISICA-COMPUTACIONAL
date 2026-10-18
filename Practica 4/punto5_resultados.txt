@@ -1,0 +1,8 @@
+v0=7546.049108166282 m/s
+Periodo teorico=5828.519867788797 s
+Intervalo comun=[0,5820] s; diferencia con T=8.519867789 s
+Energia especifica inicial=-28471428.571428570896 J/kg
+Euler-Cromer, h=20 s: pasos=291; evaluaciones=291; delta_E=4.648900613115e-04; delta_r=1.101307938782e-02; error_posicion_max=294636.185111037 m
+Euler-Cromer, h=10 s: pasos=582; evaluaciones=582; delta_E=1.162126266643e-04; delta_r=5.448182719239e-03; error_posicion_max=149115.857754071 m
+RK4, h=20 s: pasos=291; evaluaciones=1164; delta_E=8.119719184288e-10; delta_r=7.165347870597e-09; error_posicion_max=0.245786994 m
+RK4, h=10 s: pasos=582; evaluaciones=2328; delta_E=2.536982507246e-11; delta_r=4.348282844902e-10; error_posicion_max=0.014663872 m
